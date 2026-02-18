@@ -1,0 +1,6 @@
+<function=WRITE_FILE>
+<parameter=path>
+src/components/hero.tsx
+</parameter>
+</function>
+</tool_call>
